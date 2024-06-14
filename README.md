@@ -1,5 +1,5 @@
 # Vehicle_Part_Calim_Analysis_Model 
-# For Dataset visit My Kaggle Account : https://www.kaggle.com/sahilprajapati143
+# For Dataset visit on My Kaggle Account : https://www.kaggle.com/sahilprajapati143
 This is a vehicle industry the i need to analyse the total claimed part by which city more with this analysis it can help company to make availability of vehicle parts that users claim on their city .
 #requirement :
 On the sale of the vehicle company provides one year base warranty on its parts and also provides optional one year extended warranty on additional cost. If the customer has not opted for the extended warranty option then after the one year in case of any failure of any part, the warranty is said to be expired and all the expenses has to be incurred by the customer itself and company will not take any responsibility for the same.
